@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.aquarium.Stage3UnitTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-10-20T19:02:27" hostname="Wioletas-MacBook-Air.local" time="0.477">
+  <properties/>
+  <testcase name="test00_checkViewPager" classname="org.hyperskill.aquarium.Stage3UnitTest" time="0.084"/>
+  <testcase name="test01_whenOnPageZeroCheckNextOnce" classname="org.hyperskill.aquarium.Stage3UnitTest" time="0.073"/>
+  <testcase name="test02_whenOnPageOneCheckPreviousOnce" classname="org.hyperskill.aquarium.Stage3UnitTest" time="0.106"/>
+  <testcase name="test02_whenOnPageZeroCheckNextUntilLastPage" classname="org.hyperskill.aquarium.Stage3UnitTest" time="0.076"/>
+  <testcase name="test03_whenOnLastPageCheckPreviousUntilFirstPage" classname="org.hyperskill.aquarium.Stage3UnitTest" time="0.137"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

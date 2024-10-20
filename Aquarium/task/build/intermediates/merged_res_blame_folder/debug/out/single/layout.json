@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "org.hyperskill.aquarium.Aquarium-task-mergeDebugResources-20:/layout/activity_main.xml",
+        "source": "org.hyperskill.aquarium.Aquarium-task-main-23:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/wioletawrobel/.gradle/daemon/8.7/org.hyperskill.aquarium.Aquarium-task-mergeDebugResources-20:/layout/activity_main.xml",
+        "source": "/Users/wioletawrobel/.gradle/daemon/8.7/org.hyperskill.aquarium.Aquarium-task-main-23:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/wioletawrobel/.gradle/daemon/8.7/org.hyperskill.aquarium.Aquarium-task-mergeDebugResources-20:/layout/page_item.xml",
+        "source": "/Users/wioletawrobel/.gradle/daemon/8.7/org.hyperskill.aquarium.Aquarium-task-main-23:/layout/page_item.xml"
+    }
+]

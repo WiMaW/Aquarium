@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "org.hyperskill.aquarium.Aquarium-task-merged_res-21:/drawable-hdpi_error.png.flat",
+        "source": "org.hyperskill.aquarium.Aquarium-task-pngs-16:/drawable-hdpi/error.png"
+    },
+    {
+        "merged": "org.hyperskill.aquarium.Aquarium-task-merged_res-21:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "org.hyperskill.aquarium.Aquarium-task-pngs-16:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "org.hyperskill.aquarium.Aquarium-task-merged_res-21:/drawable-ldpi_placeholder.png.flat",
+        "source": "org.hyperskill.aquarium.Aquarium-task-pngs-16:/drawable-ldpi/placeholder.png"
+    },
+    {
+        "merged": "org.hyperskill.aquarium.Aquarium-task-merged_res-21:/drawable-anydpi-v21_error.xml.flat",
+        "source": "org.hyperskill.aquarium.Aquarium-task-pngs-16:/drawable-anydpi-v21/error.xml"
+    },
+    {
+        "merged": "org.hyperskill.aquarium.Aquarium-task-merged_res-21:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "org.hyperskill.aquarium.Aquarium-task-pngs-16:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "org.hyperskill.aquarium.Aquarium-task-merged_res-21:/drawable-mdpi_placeholder.png.flat",
+        "source": "org.hyperskill.aquarium.Aquarium-task-pngs-16:/drawable-mdpi/placeholder.png"
+    },
+    {
+        "merged": "org.hyperskill.aquarium.Aquarium-task-merged_res-21:/drawable-xxhdpi_error.png.flat",
+        "source": "org.hyperskill.aquarium.Aquarium-task-pngs-16:/drawable-xxhdpi/error.png"
+    },
+    {
+        "merged": "org.hyperskill.aquarium.Aquarium-task-merged_res-21:/drawable-xhdpi_placeholder.png.flat",
+        "source": "org.hyperskill.aquarium.Aquarium-task-pngs-16:/drawable-xhdpi/placeholder.png"
+    },
+    {
+        "merged": "org.hyperskill.aquarium.Aquarium-task-merged_res-21:/drawable-hdpi_placeholder.png.flat",
+        "source": "org.hyperskill.aquarium.Aquarium-task-pngs-16:/drawable-hdpi/placeholder.png"
+    },
+    {
+        "merged": "org.hyperskill.aquarium.Aquarium-task-merged_res-21:/drawable-xhdpi_error.png.flat",
+        "source": "org.hyperskill.aquarium.Aquarium-task-pngs-16:/drawable-xhdpi/error.png"
+    },
+    {
+        "merged": "org.hyperskill.aquarium.Aquarium-task-merged_res-21:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "org.hyperskill.aquarium.Aquarium-task-pngs-16:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "org.hyperskill.aquarium.Aquarium-task-merged_res-21:/drawable-xxxhdpi_error.png.flat",
+        "source": "org.hyperskill.aquarium.Aquarium-task-pngs-16:/drawable-xxxhdpi/error.png"
+    },
+    {
+        "merged": "org.hyperskill.aquarium.Aquarium-task-merged_res-21:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "org.hyperskill.aquarium.Aquarium-task-main-22:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "org.hyperskill.aquarium.Aquarium-task-merged_res-21:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "org.hyperskill.aquarium.Aquarium-task-pngs-16:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "org.hyperskill.aquarium.Aquarium-task-merged_res-21:/drawable-xxxhdpi_placeholder.png.flat",
+        "source": "org.hyperskill.aquarium.Aquarium-task-pngs-16:/drawable-xxxhdpi/placeholder.png"
+    },
+    {
+        "merged": "org.hyperskill.aquarium.Aquarium-task-merged_res-21:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "org.hyperskill.aquarium.Aquarium-task-pngs-16:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "org.hyperskill.aquarium.Aquarium-task-merged_res-21:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "org.hyperskill.aquarium.Aquarium-task-main-22:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "org.hyperskill.aquarium.Aquarium-task-merged_res-21:/layout_activity_main.xml.flat",
+        "source": "org.hyperskill.aquarium.Aquarium-task-main-22:/layout/activity_main.xml"
+    },
+    {
+        "merged": "org.hyperskill.aquarium.Aquarium-task-merged_res-21:/drawable-xxhdpi_placeholder.png.flat",
+        "source": "org.hyperskill.aquarium.Aquarium-task-pngs-16:/drawable-xxhdpi/placeholder.png"
+    },
+    {
+        "merged": "org.hyperskill.aquarium.Aquarium-task-merged_res-21:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "org.hyperskill.aquarium.Aquarium-task-pngs-16:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "org.hyperskill.aquarium.Aquarium-task-merged_res-21:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "org.hyperskill.aquarium.Aquarium-task-pngs-16:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "org.hyperskill.aquarium.Aquarium-task-merged_res-21:/layout_page_item.xml.flat",
+        "source": "org.hyperskill.aquarium.Aquarium-task-main-22:/layout/page_item.xml"
+    },
+    {
+        "merged": "org.hyperskill.aquarium.Aquarium-task-merged_res-21:/drawable-mdpi_error.png.flat",
+        "source": "org.hyperskill.aquarium.Aquarium-task-pngs-16:/drawable-mdpi/error.png"
+    },
+    {
+        "merged": "org.hyperskill.aquarium.Aquarium-task-merged_res-21:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "org.hyperskill.aquarium.Aquarium-task-pngs-16:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "org.hyperskill.aquarium.Aquarium-task-merged_res-21:/drawable-ldpi_error.png.flat",
+        "source": "org.hyperskill.aquarium.Aquarium-task-pngs-16:/drawable-ldpi/error.png"
+    },
+    {
+        "merged": "org.hyperskill.aquarium.Aquarium-task-merged_res-21:/drawable-anydpi-v21_placeholder.xml.flat",
+        "source": "org.hyperskill.aquarium.Aquarium-task-pngs-16:/drawable-anydpi-v21/placeholder.xml"
+    },
+    {
+        "merged": "org.hyperskill.aquarium.Aquarium-task-merged_res-21:/drawable_image1.png.flat",
+        "source": "org.hyperskill.aquarium.Aquarium-task-main-22:/drawable/image1.png"
+    }
+]

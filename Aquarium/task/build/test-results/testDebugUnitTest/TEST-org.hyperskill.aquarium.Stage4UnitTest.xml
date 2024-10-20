@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.aquarium.Stage4UnitTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-10-20T19:02:27" hostname="Wioletas-MacBook-Air.local" time="0.373">
+  <properties/>
+  <testcase name="test00_checkTheTabLayout" classname="org.hyperskill.aquarium.Stage4UnitTest" time="0.051"/>
+  <testcase name="test01_checkingTabCount" classname="org.hyperskill.aquarium.Stage4UnitTest" time="0.047"/>
+  <testcase name="test02_checkingIfViewPagerPagePositionMatchesTabLayoutTabPosition" classname="org.hyperskill.aquarium.Stage4UnitTest" time="0.153"/>
+  <testcase name="test03_checkingTabClick" classname="org.hyperskill.aquarium.Stage4UnitTest" time="0.121"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

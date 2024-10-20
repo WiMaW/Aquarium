@@ -1,0 +1,4 @@
+#Sun Oct 20 21:02:19 CEST 2024
+base.0=/Users/wioletawrobel/StudioProjects/Aquarium/Aquarium/task/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
